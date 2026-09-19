@@ -1,7 +1,7 @@
 {
   "version": 1,
   "description": "dck blueprint registry — ready-to-deploy container templates",
-  "base_url": "https://raw.githubusercontent.com/animesao/dck-blueprints/main",
+  "base_url": "https://raw.githubusercontent.com/kuranix/dck-blueprints/main",
   "blueprints": {
     "adguard-home": {
       "name": "adguard-home",

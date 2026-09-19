@@ -1,6 +1,6 @@
 # dck Blueprints
 
-> Ready-to-deploy container templates for [dck](https://github.com/animesao/dck) — a zero-daemon container runtime.
+> Ready-to-deploy container templates for [dck](https://github.com/kuranix/dck) — a zero-daemon container runtime.
 
 ## Usage
 
